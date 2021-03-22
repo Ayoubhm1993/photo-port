@@ -1,6 +1,4 @@
-  # Project Title :
-
-  Oh Snap!
+# Oh Snap!
 
   # Description :
 
